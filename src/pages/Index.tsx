@@ -102,7 +102,7 @@ const Index = () => {
                 </span>
               </h1>
               
-              <p className="text-xl text-muted-foreground leading-relaxed max-w-2xl">
+              <p className="text-xl text-muted-foreground leading-relaxed max-w-2xl mt-4">
                 ابدأ رحلتك في عالم البرمجة مع دروس تفاعلية ومشاريع عملية تناسب جميع المستويات. 
                 تعلم JavaScript و Python ومفاهيم البرمجة الأساسية بطريقة ممتعة وسهلة.
               </p>
