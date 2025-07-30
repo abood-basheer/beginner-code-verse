@@ -103,8 +103,8 @@ const Index = () => {
               </h1>
               
               <p className="text-xl text-muted-foreground leading-relaxed max-w-2xl">
-                ابدأ رحلتك في عالم البرمجة مع دروس تفاعلية ومشاريع عملية تُناسب جميع المستويات. 
-                تعلم JavaScript وPython ومفاهيم البرمجة الأساسية بطريقة ممتعة وسهلة.
+                ابدأ رحلتك في عالم البرمجة مع دروس تفاعلية ومشاريع عملية تناسب جميع المستويات. 
+                تعلم JavaScript و Python ومفاهيم البرمجة الأساسية بطريقة ممتعة وسهلة.
               </p>
               
               <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
