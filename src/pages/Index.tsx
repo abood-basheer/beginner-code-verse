@@ -97,7 +97,7 @@ const Index = () => {
               
               <h1 className="text-4xl md:text-6xl font-bold leading-tight">
                 تعلم البرمجة
-                <span className="block text-primary font-bold">
+                <span className="block text-accent font-bold">
                   بطريقة تفاعلية
                 </span>
               </h1>
